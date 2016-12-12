@@ -1,0 +1,17 @@
+h1 {
+    font-size: 48px;
+}
+.style1 {
+    font-size: 32px;
+    color: DarkGray;
+}
+.style2 {
+    font-size: 32px;
+    color: Navy;
+}
+.boldText {
+    font-weight: bold;
+}
+.straightLine {
+    text-decoration: line-through;
+}
