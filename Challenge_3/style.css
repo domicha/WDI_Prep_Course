@@ -1,0 +1,33 @@
+.boxstyle1 {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-top: 2px dotted white;
+    border-right: 2px dotted white;
+    border-bottom: 2px dotted white;
+    border-left: 2px dotted white;
+    width: 200px;
+    background-color: darkgray;
+    color: whitesmoke;
+}
+
+.boxstyle2 {
+    padding: 10px 20px; 
+    border: 2px dotted white;
+    width: 200px;
+    background-color: darkgrey;
+    color: whitesmoke;
+}
+
+.pictureStyle17 {
+    padding: 20px;
+    background-color: darkgrey;
+    width: 200px;
+}
+
+.pictureStyle13 {
+    border: 20px ridge darkgrey;
+    width: 200px;
+    border-top-style: 
+}
